@@ -18,7 +18,7 @@ This is some really big news, man.  Check out this source[1], that source[2], an
 >>>BOF
 <h1>Big News</h1>
 
-<p>This is some really big news, man. Check out this source[<a href="#fn-1">1</a>], that source[<a href="#fn-2">2</a>], and this one[<a href="#fn-3">3</a>].
+<p>This is some really big news, man. Check out this source[<a href="#fn-1">1</a>], that source[<a href="#fn-2">2</a>], and this one[<a href="#fn-3">3</a>].</p>
 
 <div class="foot">
 <div class="fn" id="#fn-1"><span class="fn-label">1</span> This is a footnote.</div>
